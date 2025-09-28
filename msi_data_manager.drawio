@@ -53,7 +53,7 @@
           <mxGeometry x="323" y="489" width="183" height="54" as="geometry" />
         </mxCell>
         <mxCell id="t924K4VCLqQPIul5DUa8-128" value="inspect_data" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="101" y="745" width="152" height="54" as="geometry" />
+          <mxGeometry x="101.5" y="760" width="152" height="54" as="geometry" />
         </mxCell>
         <mxCell id="t924K4VCLqQPIul5DUa8-129" value="_inspect_hdf5_structure" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="60" y="680" width="235" height="54" as="geometry" />
