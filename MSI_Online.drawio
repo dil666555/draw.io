@@ -37,7 +37,7 @@
           <mxGeometry x="1372" y="660" width="156" height="54" as="geometry" />
         </mxCell>
         <mxCell id="3OUTwUd7x4KxcJ3TpxV8-11" value="页面模块开发 Vue+DaisyUI " style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1139" y="330" width="156" height="56" as="geometry" />
+          <mxGeometry x="1163" y="330" width="156" height="56" as="geometry" />
         </mxCell>
         <mxCell id="3OUTwUd7x4KxcJ3TpxV8-12" value="首页展示" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="960" y="446" width="124" height="54" as="geometry" />
